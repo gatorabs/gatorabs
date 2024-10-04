@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**gatorabs/gatorabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```js
+import Desenvolvedor from "SeuNick";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class SobreMim extends Desenvolvedor {
+  nome = "Gabriel Spioni";
+  area = "BackEnd Software Engineer";
+  local = "São Paulo";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["C/C++, Python, C# and JS"];
+  frameworks = ["Flutter, Springboot and Ruby on Rails"];
+}
+```
+
+---
+
+
+[![gatorabs](https://github-readme-stats.vercel.app/api/top-langs/?username=gatorabs&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
