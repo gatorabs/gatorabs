@@ -1,16 +1,16 @@
 
 
 ```js
-import Desenvolvedor from "SeuNick";
+import Developer from "Gatorabs";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Gabriel Spioni";
+class AboutMe extends Developer {
+  name = "Gabriel Spioni";
   area = "BackEnd Software Engineer";
-  local = "São Paulo";
+  location = "São Paulo";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["C/C++, Python, C# and JS"];
+class Skills extends Developer {
+  languages = ["C/C++, Python, C# and JS"];
   frameworks = ["Flutter, Springboot and Ruby on Rails"];
 }
 ```
