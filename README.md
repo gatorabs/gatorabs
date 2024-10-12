@@ -1,7 +1,7 @@
 
 
 ```js
-import Developer from "Gatorabs";
+import Developer from "gatorabs";
 
 class AboutMe extends Developer {
   name = "Gabriel Spioni";
@@ -10,8 +10,8 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages = ["C/C++, Python, C# and JS"];
-  frameworks = ["Flutter, Springboot and Ruby on Rails"];
+  languages = ["C/C++, Python, C#, JS and Dart"];
+  frameworks = ["Flutter, .Net core and ASP.Net core"];
 }
 ```
 
