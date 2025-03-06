@@ -1,17 +1,26 @@
 
 
-```js
-import Developer from "gatorabs";
-
-class AboutMe extends Developer {
-  name = "Gabriel Spioni";
-  area = "BackEnd Software Engineer";
-  location = "São Paulo";
+```csharp
+public class AboutMe : Developer
+{
+    public AboutMe()
+    {
+        Name = "Gabriel Spioni";
+        Area = "BackEnd Software Engineer";
+        Location = "São Paulo";
+    }
 }
 
-class Skills extends Developer {
-  languages = ["C#", "Python", "C/C++", "JS", "Dart"];
-  frameworks = ["ASP.Net core", ".Net core"];
+public class Skills : Developer
+{
+    public List<string> Languages { get; set; }
+    public List<string> Frameworks { get; set; }
+
+    public Skills()
+    {
+        Languages = new List<string> { "C#", "Python", "C/C++", "JS", "Dart" };
+        Frameworks = new List<string> { "ASP.Net Core", ".Net Core" };
+    }
 }
 ```
 
