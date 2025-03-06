@@ -5,7 +5,7 @@ public class AboutMe : Developer
 {
     public AboutMe()
     {
-        Name = "Gabriel Spioni";
+        Name = "Gabriel S. Estevão";
         Area = "BackEnd Software Engineer";
         Location = "São Paulo";
     }
