@@ -1,4 +1,4 @@
-## Projects
+## Public Projects
 
 ### Autodrive
 Autonomous car control and monitoring system using computer vision, Python, Flask and serial communication.
@@ -6,13 +6,6 @@ Autonomous car control and monitoring system using computer vision, Python, Flas
 `Python` `OpenCV` `YOLO` `Flask` `CustomTkinter`
 
 [github.com/gatorabs/autodrive](https://github.com/gatorabs/autodrive)
-
-### Account Opening Systems
-Backend work on digital account opening journeys, document validation, integrations and reliability improvements.
-
-`.NET` `C#` `Azure` `Kafka` `RabbitMQ` `Redis` `Kubernetes`
-
-[cadastro.xpi.com.br](https://cadastro.xpi.com.br)
 
 ## Stack
 
