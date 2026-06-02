@@ -3,7 +3,7 @@
 ### Autodrive
 Autonomous car control and monitoring system using computer vision, Python, Flask and serial communication.
 
-`Python` `OpenCV` `YOLO` `Flask` `CustomTkinter`
+`Python` `OpenCV` `YOLO` `Flask` `CustomTkinter` `Multiprocess`
 
 [github.com/gatorabs/autodrive](https://github.com/gatorabs/autodrive)
 
