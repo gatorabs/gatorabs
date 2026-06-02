@@ -1,42 +1,28 @@
+# Gabriel Estevão
 
+Software Engineer.
 
-```csharp
-public class AboutMe : Developer
-{
-    public AboutMe()
-    {
-        Name = "Gabriel J. S. Estevão";
-        Area = "Software Engineer";
-        Location = "São Paulo";
-    }
-}
+## Projects
 
-public class Skills : Developer
-{
-    public List<string> Languages { get; set; }
-    public List<string> Frameworks { get; set; }
-    public List<string> Architecture { get; set; }
-    public List<string> Cloud { get; set; }
-    public List<string> DevOps { get; set; }
-    public List<string> Databases { get; set; }
-    public List<string> Observability { get; set; }
-    public List<string> Messaging { get; set; }
+### Autodrive
+Autonomous car control and monitoring system using computer vision, Python, Flask and serial communication.
 
-    public Skills()
-    {
-        Languages = new List<string> { "C#", "Python", "C/C++", "JavaScript" };
-        Frameworks = new List<string> { "ASP.NET", ".NET, Flask" };
+`Python` `OpenCV` `YOLO` `Flask` `CustomTkinter`
 
-        Architecture = new List<string> { "Microservices", "Clean Architecture", "Domain-Driven Design" };
-        Cloud = new List<string> { "Azure" };
-        DevOps = new List<string> { "CI/CD Pipelines" };
-        Databases = new List<string> { "SQL", "NoSQL" };
-        Observability = new List<string> { "Dynatrace" };
-        Messaging = new List<string> { "Kafka", "RabbitMQ" };
-    }
-}
-}
-```
+[github.com/gatorabs/autodrive](https://github.com/gatorabs/autodrive)
 
----
+### Account Opening Systems
+Backend work on digital account opening journeys, document validation, integrations and reliability improvements.
 
+`.NET` `C#` `Azure` `Kafka` `RabbitMQ` `Redis` `Kubernetes`
+
+[cadastro.xpi.com.br](https://cadastro.xpi.com.br)
+
+## Stack
+
+Backend: `.NET` `C#` `ASP.NET Web API`  
+Architecture: `Microservices` `Clean Architecture` `DDD`  
+Cloud/DevOps: `Azure` `Docker` `Kubernetes` `CI/CD`  
+Data: `SQL Server` `MongoDB` `Redis`  
+Messaging: `Kafka` `RabbitMQ`  
+Observability: `Dynatrace` `Datadog`
