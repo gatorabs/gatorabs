@@ -1,7 +1,3 @@
-# Gabriel Estevão
-
-Software Engineer.
-
 ## Projects
 
 ### Autodrive
