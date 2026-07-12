@@ -1,7 +1,14 @@
 ## Public Projects
 
+### Terminalia
+Modular ASCII game engine in .NET with an integrated WinForms visual editor, following Clean Architecture, DDD-lite and ECS-lite.
+
+`.NET` `C#` `WinForms` `ECS` `Clean Architecture` `DDD`
+
+[github.com/gatorabs/terminalia](https://github.com/gatorabs/terminalia)
+##
 ### Autodrive
-Autonomous car control and monitoring system using computer vision, Python, Flask and serial communication.
+Autonomous car control and monitoring system using computer vision, P.I.D (Proportional-Integral-Derivative), Python, Flask and serial communication.
 
 `Python` `OpenCV` `YOLO` `Flask` `CustomTkinter` `Multiprocess`
 
